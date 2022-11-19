@@ -26,8 +26,12 @@
 3. Type checks and automatic casts
 
 
-###  11.18
-1. Numbers
-2. couterparts
-3. Booleans
-4. Characters
+###  11.19
+1. Numbers 
+   1. https://kotlinlang.org/docs/numbers.html#explicit-number-conversions
+    
+### 11.20
+
+1. couterparts
+2. Booleans
+3. Characters
