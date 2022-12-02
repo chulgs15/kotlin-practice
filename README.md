@@ -31,8 +31,20 @@
    1. https://kotlinlang.org/docs/numbers.html#explicit-number-conversions
    
     
-### 11.28
+### 11.27
 
 1. couterparts
 2. Booleans
+   1. https://kotlinlang.org/docs/booleans.html
 3. Characters
+
+
+### 12.03
+
+1. String
+   1. https://kotlinlang.org/docs/strings.html#string-templates
+
+### 12.XX
+
+1. Arrays
+2. type checks and casts
