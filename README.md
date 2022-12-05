@@ -42,9 +42,11 @@
 ### 12.03
 
 1. String
-   1. https://kotlinlang.org/docs/strings.html#string-templates
 
-### 12.XX
+### 12.04
 
 1. Arrays
+
+### 12.05
+
 2. type checks and casts
